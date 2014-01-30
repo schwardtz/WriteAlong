@@ -2,12 +2,10 @@
   "manifest_version": 2,
 
   "name": "WriteAlong",
-  "description": "This extension allows to annotate paragraphs on okcupid for in message answering",
+  "description": "Lets the user save comments to paragraphs on OKCupid",
   "version": "0.1",
 
-  "browser_action": {
-    "default_icon": "icon.png"
-  },
+
   "icons": { "16": "icon16.png",
            "48": "icon48.png",
           "128": "icon128.png" },
